@@ -66,7 +66,7 @@ class Head extends StatelessWidget {
         Container(
           width: 200,
           height: 200,
-          color: Colors.purple[100],
+          color: Colors.green[100],
         ),
         Positioned(
           top: 45,
@@ -74,7 +74,7 @@ class Head extends StatelessWidget {
           child: Container(
             width: 30,
             height: 30,
-            color: Colors.purple,
+            color: Colors.green,
           ),
         ),
         Positioned(
@@ -83,7 +83,7 @@ class Head extends StatelessWidget {
           child: Container(
             width: 30,
             height: 30,
-            color: Colors.purple,
+            color: Colors.green,
           ),
         ),
         Positioned(
@@ -91,7 +91,7 @@ class Head extends StatelessWidget {
           child: Container(
             width: 70,
             height: 25,
-            color: Colors.purple,
+            color: Colors.green,
           ),
         ),
       ],
